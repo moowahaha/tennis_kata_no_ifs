@@ -1,0 +1,4 @@
+This code kata is much like other tennis scorte katas. We should track and return
+the score of a tennis match as well as the winner.
+
+BUT! You cannot use if's, unless's, case or other such flow control. Cheater.
